@@ -1,4 +1,4 @@
-<img src=./img/profile.png width="30%" ><img src=./img/unix.jpg width="50%">
+<img src=[./img/profile.png](https://github.com/donjuanplatinum/donjuanplatinum/blob/main/profile.png) width="30%" ><img src=[./img/unix.jpg](https://github.com/donjuanplatinum/donjuanplatinum/blob/main/unix.jpg) width="50%">
 
 [![GNU General Public License](https://www.donjuan.lecturify.net:7764/badge/license-GPL%20v2-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.html)
 
