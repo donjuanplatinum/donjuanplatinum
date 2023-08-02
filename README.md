@@ -16,5 +16,4 @@
 |![Matrix](https://www.donjuan.lecturify.net:7764/badge/-Matrix-ffffff?style=social&logo=Matrix&logoColor=blue)|<a href=https://www.donjuan.lecturify.net:8000/#/#git:matrix.donjuan.lecturify.net>#git:matrix.donjuan.lecturify.net</a>
 |eMail|donjuan@donjuan.lecturify.net
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![algolia](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=algolia)
