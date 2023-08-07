@@ -2,10 +2,6 @@
 
 [![GNU General Public License](https://www.donjuan.lecturify.net:7764/badge/license-GPL%20v2-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.html)
 
-
-
-Donjuan Platinum <img src=https://github.com/donjuanplatinum/donjuanplatinum/blob/main/profile.png width="30%" >
-
 |            |             |
 |--------|---------------|
 |Name|Donjuan Platinum <img src=https://github.com/donjuanplatinumdonjuanplatinum/blob/main/profile.png width="30%" >|
