@@ -4,7 +4,7 @@
 
 |            |             |
 |--------|---------------|
-|Name|Donjuan Platinum <img src=https://github.com/donjuanplatinumdonjuanplatinum/blob/main/profile.png width="30%" >|
+|Name|Donjuan Platinum <img src=https://github.com/donjuanplatinum/donjuanplatinum/blob/main/profile.png width="30%" >|
 |Org|Lecturify Ircnow|
 
 
