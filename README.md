@@ -5,7 +5,7 @@
 |--------|---------------|
 |Name|<img src=https://github.com/donjuanplatinum/donjuanplatinum/blob/main/profile.png width="5%" >Donjuan Platinum |
 |Org|Lecturify Ircnow|
-
+|saying|大哉乾元,万物滋始,乃统天
 
 |ProPerty                                        |donjuanplatinum
 |----------------------------------------------------|---------------------------------------------------------------
