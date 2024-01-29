@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/donjuanplatinum?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjuanplatinum)](https://github.com/donjuanplatinum)
 [![GNU General Public License](https://www.donjuan.lecturify.net:7764/badge/license-GPL%20v2-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.html)
 
 |            |             |
