@@ -30,8 +30,9 @@
 |Lecturify|<a href=https://www.lecturify.net>Lecturify</a>
 
 # Contri
-| Repository      |                                                                                                            |
-| THUDM/Codegeex2 | <a href=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="10%">Codegeex2</a> |
-|                 |                                                                                                            |
+| Repository      |
+|---|----
+| THUDM/Codegeex2 | <a href=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="10%">Codegeex2</a> 
+
 
 ![algolia](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=algolia)
