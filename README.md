@@ -1,7 +1,7 @@
 # Profile
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjuanplatinum&theme=radical)](https://github.com/donjuanplatinum)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donjuanplatinum)](https://github.com/donjuanplatinum)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donjuanplatinum&theme=react-dark)](https://github.com/donjuanplatinum)
+
 [![GNU General Public License](https://www.donjuan.lecturify.net:7764/badge/license-GPL%20v2-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.html)
 
 # Intro
@@ -36,3 +36,5 @@
 
 
 ![algolia](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=algolia)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donjuanplatinum&theme=radical)](https://github.com/donjuanplatinum)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=donjuanplatinum&theme=react-dark)](https://github.com/donjuanplatinum)
