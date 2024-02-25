@@ -15,7 +15,7 @@
 |ProPerty                                        |donjuanplatinum
 |----------------------------------------------------|---------------------------------------------------------------
 |Editor               |![Emacs](https://shields.io/badge/-Emacs?style=flat&logo=gnuemacs&color=white)
-|LANG           | ![Rust Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=Rust&logoColor=black)  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow) ![Go Badge](https://shields.io/badge/-Go-3776AB?style=flat&logo=Go&logoColor=) Lisp  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![Haskell](https://shields.io/badge/-Haskell-3776AB?style=flat&logo=haskell)
+|LANG           | ![Rust Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=Rust&logoColor=black)  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow) ![Go Badge](https://shields.io/badge/-Go-3776AB?style=flat&logo=Go&logoColor=) Lisp  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![Haskell](https://shields.io/badge/-Haskell-3776AB?style=flat&logo=haskell) ![Org](https://shields.io/badge/-org-3776AB?style=flat&logo=org&logoColor=)
 |OS  | ![Gentoo](https://shields.io/badge/-Gentoo-93f6ef?style=flat&logo=Gentoo&logoColor=Pink)![OpenBSD](https://shields.io/badge/-OpenBSD-93f6ef?logo=OpenBSD) 
 |DB   | ![postgresql](https://shields.io/badge/-postgresql-93f6ef?style=for-the-badge&logo=Postgresql) 
 |Terminal|![tmux](https://shields.io/badge/-tmux-123124?logo=tmux) 
