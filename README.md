@@ -11,10 +11,10 @@
 
 |ProPerty                                        |donjuanplatinum
 |----------------------------------------------------|---------------------------------------------------------------
-|Editor               |![Emacs](https://shields.io/badge/-Emacs-3776AB?style=flat&logo=gnuemacs)
-|LANG           | ![Rust Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=Rust&logoColor=black)  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow) ![Go Badge](https://shields.io/badge/-Go-3776AB?style=flat&logo=Go&logoColor=) ![Python Badge](https://shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=red) ![Markdown Badge](https://shields.io/badge/-Markdown-3776AB?style=flat&logo=Markdown)  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) 
-|OS  | ![Archlinux](https://shields.io/badge/-archlinux-93f6ef?for-the-badge&logo=archlinux) ![debian](https://shields.io/badge/-debian-93f6ef?style=flat&logo=Debian&logoColor=red) ![kali](https://shields.io/badge/-Kali-93f6ef?style=flat&logo=kalilinux&logoColor=red) ![RHEL](https://shields.io/badge/-RHEL-93f6ef?style=flat&logo=Redhat&logoColor=red) ![Gentoo](https://shields.io/badge/-Gentoo-93f6ef?style=flat&logo=Gentoo&logoColor=Pink) ![BlackArch](https://shields.io/badge/-Fedora-93f6ef?style=flat&logo=fedora&logoColor=Pink) ![windows](https://shields.io/badge/-windows-936fef?logo=windows) ![openwrt](https://shields.io/badge/-openwrt-93f1ef?logo=openwrt) ![mxlinux](https://shields.io/badge/-Mxlinux-93f6ef?logo=mxlinux) ![OpenBSD](https://shields.io/badge/-OpenBSD-93f6ef?logo=OpenBSD) ![Manjaro](https://shields.io/badge/-Manjaro-93f6ef?logo=Manjaro)
-|DB   | ![postgresql](https://shields.io/badge/-postgresql-93f6ef?style=for-the-badge&logo=Postgresql)
+|Editor               |![Emacs](https://shields.io/badge/-Emacs?style=flat&logo=gnuemacs&color=white)
+|LANG           | ![Rust Badge](https://shields.io/badge/-Rust-3776AB?style=flat&logo=Rust&logoColor=black)  ![C Badge](https://shields.io/badge/-C-3776AB?style=flat&logo=C&logoColor=yellow) ![Go Badge](https://shields.io/badge/-Go-3776AB?style=flat&logo=Go&logoColor=) Lisp  ![C++](https://shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus) ![Haskell](https://shields.io/badge/-Haskell-3776AB?style=flat&logo=haskell)
+|OS  | ![Gentoo](https://shields.io/badge/-Gentoo-93f6ef?style=flat&logo=Gentoo&logoColor=Pink)![OpenBSD](https://shields.io/badge/-OpenBSD-93f6ef?logo=OpenBSD) 
+|DB   | ![postgresql](https://shields.io/badge/-postgresql-93f6ef?style=for-the-badge&logo=Postgresql) 
 |Terminal|![tmux](https://shields.io/badge/-tmux-123124?logo=tmux) 
 
 
