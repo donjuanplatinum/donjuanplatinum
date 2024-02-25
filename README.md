@@ -32,7 +32,7 @@
 # Contri
 | Repository      |Address
 |---|----
-| THUDM/Codegeex2 | <img src=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="10%">Codegeex2</a> 
+| THUDM/Codegeex2 | <img src=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="20%">Codegeex2</img>
 
 
 ![algolia](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=algolia)
