@@ -9,7 +9,7 @@
 |--------|---------------|
 |Name|<img src=https://github.com/donjuanplatinum/donjuanplatinum/blob/main/profile.png width="5%" >Donjuan Platinum |
 |Org|Lecturify Ircnow|
-|saying|吾令羲和弭节兮 望崦嵫而勿迫 路漫漫其修远兮 吾将上下而求索
+|saying|吾令羲和弭节兮 望崦嵫而勿迫 路漫漫其修远兮 吾将上下而求索|
 
 # WorkSpace
 |ProPerty                                        |donjuanplatinum
@@ -24,15 +24,13 @@
 |Social                   |Address
 |-----------------------|------------------
 |![Matrix](https://shields.io/badge/-Matrix-ffffff?style=flat&logo=Matrix&logoColor=blue)|<a href=https://www.donjuan.lecturify.net:8000/#/#git:matrix.donjuan.lecturify.net>@donjuan:matrix.donjuan.lecturify.net</a>
-|![Email](https://shields.io/badge/-Email-ffffff?style=flat)|donjuan@donjuan.lecturify.net
+|![Email](https://shields.io/badge/-Email-ffffff?style=flat)|donjuan@lecturify.net
 |![xmpp](https://shields.io/badge/-XMPP-ffffff?style=flat&logo=XMPP&logoColor=blue)|<a href=https://www.donjuan.lecturify.net:8000/#/#git:matrix.donjuan.lecturify.net>donjuan@xmpp.donjuan.lecturify.net</a>
-|Bilibili|<a href=https://space.bilibili.com/494524375>Donjuan Platinum</a>
-|Lecturify|<a href=https://www.lecturify.net>Lecturify</a>
 
 # Contri
-| Repository      |Address
-|---|----
-| THUDM/Codegeex2 | <img src=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="20%">Codegeex2</img>
+| Repository      | Address                                                                                                       |
+|-----------------|---------------------------------------------------------------------------------------------------------------|
+| THUDM/Codegeex2 | <img src=https://github.com/THUDM/CodeGeeX2/blob/main/resources/codegeex_logo.png width="20%">Codegeex2</img> |
 
 
 ![algolia](https://github-profile-trophy.vercel.app/?username=donjuanplatinum&theme=algolia)
