@@ -10,5 +10,4 @@
 |![Matrix](https://shields.io/badge/-Matrix-ffffff?style=flat&logo=Matrix&logoColor=blue)|<a href=https://www.donjuan.lecturify.net:8000/#/#git:matrix.donjuan.lecturify.net>@donjuan:matrix.donjuan.lecturify.net</a>
 |![Email](https://shields.io/badge/-Email-ffffff?style=flat)|donjuan@lecturify.net
 |![xmpp](https://shields.io/badge/-XMPP-ffffff?style=flat&logo=XMPP&logoColor=blue)|<a href=https://www.donjuan.lecturify.net:8000/#/#git:matrix.donjuan.lecturify.net>donjuan@xmpp.donjuan.lecturify.net</a>
-width="20%">Codegeex2</img> |
 
