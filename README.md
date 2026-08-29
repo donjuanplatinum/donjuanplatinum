@@ -1,7 +1,5 @@
 # 满堂兮美人 忽独与余兮目成
 
-![Top Langs](https://toplang.ringlo.win/api/top-langs/?username=Donjuanplatinum\&langs_count=20\&hide=javascript,html,haskell,css)
-
 ## Contributions
 
 * **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`
@@ -21,6 +19,8 @@
 - ML/SCI: maxima Candle Burn
 - Games: Minecraft The Elder Scroll V
 - Literature: Chu ci
+
+![Top Langs](https://toplang.ringlo.win/api/top-langs/?username=Donjuanplatinum\&langs_count=20\&hide=javascript,html,haskell,css)
   
 ---
 
