@@ -14,6 +14,14 @@
 * **CodeGeeX4**: wrote `api.rs`, `args.rs`, `main.rs`, `model.rs`, `server.rs`, `lib.rs`
 * **ACPI**: changed `lib.rs`, `rsdp.rs`
 
+## ToolChain
+- OS: GNU/Linux Gentoo GNU/Hurd
+- Editor: GNU Emacs
+- Languages: Rust C Emacs-Lisp Python Lean4 
+- ML/SCI: maxima Candle Burn
+- Games: Minecraft The Elder Scroll V
+- Literature: Chu ci
+  
 ---
 
 DonjuanPlatinum, ByteDance, Yifei Yao [donplat@barrensea.org](mailto:donplat@barrensea.org)
