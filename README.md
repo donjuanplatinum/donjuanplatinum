@@ -21,7 +21,7 @@
 
 ## stats
 ![LeetCode CN](https://stats.justsong.cn/api/leetcode?username=tang-huang-r&cn=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonjuanPlatinum&layout=compact)
+![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=DonjuanPlatinum&theme=nord&hide_border=true&layout=compact)
 ![BiliBili](https://stats.justsong.cn/api/bilibili/?id=494524375)
 ---
 
