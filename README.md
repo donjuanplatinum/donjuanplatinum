@@ -19,8 +19,10 @@
 - Literature: Chu ci
 - Mailing: Emacs Gnus
 
+## stats
+![LeetCode CN](https://stats.justsong.cn/api/leetcode?username=tang-huang-r&cn=true&theme=dark)
 ![Top Langs](https://toplang.ringlo.win/api/top-langs/?username=Donjuanplatinum\&langs_count=20\&hide=javascript,html,haskell,css)
-  
+
 ---
 
 DonjuanPlatinum, ByteDance, Yifei Yao [donplat@barrensea.org](mailto:donplat@barrensea.org)
