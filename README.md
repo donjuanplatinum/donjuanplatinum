@@ -22,7 +22,7 @@
 ## stats
 ![LeetCode CN](https://stats.justsong.cn/api/leetcode?username=tang-huang-r&cn=true&theme=dark)
 ![Top Langs](https://toplang.ringlo.win/api/top-langs/?username=Donjuanplatinum\&langs_count=20\&hide=javascript,html,haskell,css)
-
+![BiliBili](https://stats.justsong.cn/api/bilibili/?id=494524375)
 ---
 
 DonjuanPlatinum, ByteDance, Yifei Yao [donplat@barrensea.org](mailto:donplat@barrensea.org)
