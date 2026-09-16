@@ -1,7 +1,7 @@
 ## Contributions
 
 * **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`
-* **GNU Hurd**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`
+* **GNU Hurd**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`, `netfs.c`
 * **Hugging Face Candle**: wrote `loss.rs`, `glm4/main.rs`, `codegeex4-9b/main.rs`
 * **Burn**: wrote `lbfgs.rs`, `kldiv.rs`; changed `adam.rs`, `adamw.rs`, `lp_loss.rs`, `mse.rs`, `cosine_embedding.rs`
 * **Tuwunel**: changed `client/sync/v3.rs`, `send_join.rs`, `try_ready.rs`, `media.rs`, `media_legacy.rs`, `router.rs`, `response.rs`, `event/id.rs`, `data.rs`, `media/mod.rs`
