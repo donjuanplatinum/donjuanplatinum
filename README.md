@@ -1,3 +1,4 @@
+- GNU Emacs AUTHORS
 ## Contributions
 
 * **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`
