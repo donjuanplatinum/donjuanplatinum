@@ -1,7 +1,7 @@
 - GNU Emacs AUTHORS
 ## Contributions
 
-* **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`
+* **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`, `calc-funcs.el`, `calc.el`, `calc-ext.el`
 * **GNU Hurd**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`, `netfs.c`
 * **Hugging Face Candle**: wrote `loss.rs`, `glm4/main.rs`, `codegeex4-9b/main.rs`
 * **Burn**: wrote `lbfgs.rs`, `kldiv.rs`; changed `adam.rs`, `adamw.rs`, `lp_loss.rs`, `mse.rs`, `cosine_embedding.rs`
