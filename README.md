@@ -4,7 +4,7 @@
 ![FSF](https://static.fsf.org/nosvn/associate/crm/7388063.png)
 ## Contributions
 
-* **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`, `calc-funcs.el`, `calc.el`, `calc-ext.el`, `clac-store.el`, `calc-tests.el`
+* **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`, `calc-funcs.el`, `calc.el`, `calc-ext.el`, `clac-store.el`, `calc-tests.el`, `calc-mtx.el`
 * **GNU Hurd**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`, `netfs.c`
 * **Linux Kernel**: changed `uniwill-acpi.c`
 * **Hugging Face Candle**: wrote `loss.rs`, `glm4/main.rs`, `codegeex4-9b/main.rs`
