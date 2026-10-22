@@ -26,7 +26,8 @@
 
 ## stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donjuanplatinum&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&custom_title=Most%20Used%20Languages&hide=Javascript,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donjuanplatinum&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&custom_title=Most%20Used%20Languages&hide=Javascript,makefile,m4)](https://github.com/anuraghazra/github-readme-stats)
+
 LeetCode: 
 
 ![LeetCode CN](https://stats.justsong.cn/api/leetcode?username=tang-huang-r&cn=true&theme=dark)
