@@ -3,6 +3,8 @@
 - GNU Hurd/GNU Mach Contributor
 - FSF Member
 ![FSF](https://static.fsf.org/nosvn/associate/crm/7388063.png)
+
+I'm interested in `os kernel`, `free software`, `numerical computing`, `deep learning`,`algorithms` and `AI Infra`.
 ## Contributions
 
 * **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `xdisp.c`, `xdisp-tests.el`, `calc-funcs.el`, `calc.el`, `calc-ext.el`, `clac-store.el`, `calc-tests.el`, `calc-mtx.el`
