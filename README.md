@@ -1,5 +1,6 @@
 - GNU Emacs AUTHORS
 - Linux Kernel Contributor
+- GNU Hurd/GNU Mach Contributor
 - FSF Member
 ![FSF](https://static.fsf.org/nosvn/associate/crm/7388063.png)
 ## Contributions
