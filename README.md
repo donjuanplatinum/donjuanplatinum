@@ -29,7 +29,7 @@ I'm interested in `os kernel`, `free software`, `numerical computing`, `deep lea
 
 ## stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donjuanplatinum&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&custom_title=Most%20Used%20Languages&hide=Javascript,makefile,m4,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=donjuanplatinum&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&custom_title=Most%20Used%20Languages&hide=Javascript,makefile,m4,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 LeetCode: 
 
