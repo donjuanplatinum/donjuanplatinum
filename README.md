@@ -8,7 +8,7 @@ I'm interested in `os kernel`, `free software`, `numerical computing`, `deep lea
 ## Contributions
 
 * **GNU Emacs**: changed `buffer.c`, `buffer-tests.el`, `process.c`, `process-tests.el`, `calc-stuff.el`, `calc-funcs.el`, `calc.el`, `calc-ext.el`, `clac-store.el`, `calc-tests.el`, `calc-mtx.el`
-* **GNU Hurd**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`, `netfs.c`
+* **GNU Hurd/GNU Mach**: changed `bpf_impl.c`, `net_io.c`, `bpf.h`, `netfs.c`, `processor.c`, `sched.h`. `sched_prim.c`
 * **Linux Kernel**: changed `uniwill-acpi.c`
 * **Hugging Face Candle**: wrote `loss.rs`, `glm4/main.rs`, `codegeex4-9b/main.rs`
 * **Burn**: wrote `lbfgs.rs`, `kldiv.rs`; changed `adam.rs`, `adamw.rs`, `lp_loss.rs`, `mse.rs`, `cosine_embedding.rs`
